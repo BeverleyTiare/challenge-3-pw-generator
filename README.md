@@ -24,6 +24,9 @@ Click here to view a live demo
 The URL of the GitHub repository:
 https://github.com/BeverleyTiare/challenge-3-pw-generator/
 
+## Acknowledgement
+Bootcamp TAs, Tutors, opensource code sites, W3 Schools, MDN
+
 ## License
 
 MIT License
