@@ -1,8 +1,8 @@
-Password Generator
+# Password Generator
 
-Challenge-3
+## Challenge-3
 
-Description
+## Description
 
 The current challenge was to enable development of skills and knowledge in regard to an application that generates random strings containing letters, numbers, special characters to form a password.
 
@@ -10,7 +10,7 @@ The application features HTML and CSS powered by JS code.
 
 A core goal was to support data security.
 
-Usage
+## Usage
 
 To use the application, open the password generator via index. HTML file in your browser to view the generator and enter a password.
 
@@ -24,7 +24,7 @@ Click here to view a live demo
 The URL of the GitHub repository:
 https://github.com/BeverleyTiare/challenge-3-pw-generator/
 
-License
+## License
 
 MIT License
 
